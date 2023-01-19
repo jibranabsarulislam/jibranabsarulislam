@@ -1,16 +1,28 @@
-### Hi there 👋
+#### Welcome 👋
 
-<!--
-**jibranabsarulislam/jibranabsarulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jibran "jayway" Absarulislam (he/him)
+[My website](https://jibran.me "Feedback is appreciated!")
 
-Here are some ideas to get you started:
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jibranabsarulislam&count_private=true&show_icons=true&theme=gruvbox"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jibranabsarulislam&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jibranabsarulislam&count_private=true&show_icons=true&theme=gruvbox" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦷  Application and Software Development Intern at Colgate
+* *React, Flask, Google Cloud Platform (Functions, App Engine)*
+
+### 👥  Former Software Engineer Intern at the Center for Policing Equity
+* *Python, Flask, Vue.js, MySQL, Ghost (as CMS)*
+
+### 🏢  Former Application Development Intern at Vanguard
+* *Python, AWS Lambda, React, Flask*
+
+### 📡  Former Research Intern (Advanced Warfighting Technology) Intern at the Georgia Tech Research Institute
+* *Python, Linux, Gazebo simulator, Dash, Microcontrollers, LabView*
