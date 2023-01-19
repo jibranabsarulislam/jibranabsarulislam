@@ -1,7 +1,10 @@
 #### Welcome 👋
 
 ### Jibran "jayway" Absarulislam (he/him)
-[My website](https://jibran.me "Feedback is appreciated!")
+
+---
+
+***[My website](https://jibran.me "Feedback is appreciated!")***
 
 <picture>
 <source 
@@ -25,4 +28,4 @@
 * *Python, AWS Lambda, React, Flask*
 
 ### 📡  Former Research Intern (Advanced Warfighting Technology) Intern at the Georgia Tech Research Institute
-* *Python, Linux, Gazebo simulator, Dash, Microcontrollers, LabView*
+* *Python, Linux, Microcontrollers, Technical Integration, Gazebo simulator, Dash, LabView, .NET Decompilation*
