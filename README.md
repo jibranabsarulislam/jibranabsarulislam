@@ -4,7 +4,7 @@
 
 ---
 
-***[My website](https://jibran.me "Feedback is appreciated!")***
+***[My website](https://www.jibran.me "Feedback is appreciated!")***
 
 <picture>
 <source 
