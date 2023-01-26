@@ -25,7 +25,7 @@
 * *Python, Flask, Vue.js, MySQL, Ghost (as CMS)*
 
 ### 🏢  Former Application Development Intern at Vanguard
-* *Python, AWS Lambda, React, Flask*
+* *Python, AWS (Lambda, EC2), React, Flask*
 
 ### 📡  Former Research Intern (Advanced Warfighting Technology) Intern at the Georgia Tech Research Institute
 * *Python, Linux, Microcontrollers, Technical Integration, Gazebo simulator, Dash, LabView, .NET Decompilation*
